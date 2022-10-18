@@ -1,0 +1,33 @@
+DAY 1	Python Programming - Fundamentals
+DAY 2	Python – Tools | Syntaxes and Data Structures
+	                          HTML ,  DJango
+DAY 3	HTML  Basic, Elements , Attributes , Headings
+DAY 4	HTML Paragraphs , Styles , Formatting , Comments
+DAY 5	HTML – Colors , CSS, links, images,tables
+DAY 6	HTML – Forms, Form Attributes , Form Elements
+DAY 7	HTML – Input Types, Input Attributes , Input Form Attributes
+DAY 8	Django – Installation, Project, Virtual Environment Setup
+DAY 9	Admin Interface , Django App , MVT
+DAY 10	Django model , view , Template
+DAY 11	URL Mapping, Static files handling , ModelForms , Django Forms
+DAY 12	Form Validation , File upload , Database Connectivity , Database Migrations   
+DAY 13	Django Middleware , Request and Response , Django Exceptions     
+DAY 14	Django Session , Django cookie , Django CSV Output     
+DAY 15	Django PDF Output , Django and Bootstrap, Deploy on  Github 
+DAY 16	Django Mail Setup , Django Default CRUD , CRUD Application 
+DAY 17	Django Redirects , Django on_delete , Django Class Based Generic views  
+DAY 18	Django UserCreationForm , Django Image Upload , Django ORM Queries      
+DAY 19	Django Form widget , Ruby on Rails vs. Django           
+DAY 20	Select_related and prefetch_related , Django Custom User Model           
+DAY 21	Django User Registration with Email Confirmation , How to use Django widget tweats?               
+DAY 22	Django shortcuts , How to connect MySQL to Django, How to use F() Expression?            
+DAY 23	Python Django MySQL CRUD project setup            
+DAY 24	Python Django MySQL CRUD Example              
+DAY 25	Calorie Tracker Using Django            
+DAY 26	Weather – App Using Django        
+DAY 27	Plants Identification DL Model Deployment using Django framework
+DAY 28	Quiz Application Using Django       
+DAY 29	Resume builder using Django       
+DAY 30	Tourism and Travels Prediction System      
+
+
